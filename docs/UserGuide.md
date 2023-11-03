@@ -525,6 +525,8 @@ Suppose you want to find stalls that serve Japanese and Western noodles. You can
 Outcome:
 1. The `Result Display` will display a success message.
 2. You will now see the matching stalls in the `Data Display`, as illustrated in the screenshot below.
+
+
 <img src="images/userGuide/find-by-stall.png" alt="find-by-name" width="600"/>
 
 <div markdown="block" class="alert alert-info">
@@ -549,6 +551,8 @@ Suppose you want to find stalls that are located at the Deck. You can use the co
 Outcome:
 1. The `Result Display` will display a success message.
 2. You will now see the matching stalls in the `Data Display`, as illustrated in the screenshot below.
+
+
 <img src="images/userGuide/find-by-location.png" alt="find-by-location" width="600"/>
 
 <div markdown="block" class="alert alert-info">
@@ -573,6 +577,8 @@ Suppose you want to find stalls that sells chicken rice. You can use the command
 Outcome:
 1. The `Result Display` will display a success message.
 2. You will now see the matching stalls in the `Data Display`, as illustrated in the screenshot below.
+
+
 <img src="images/userGuide/find-by-item.png" alt="find-by-item" width="600"/>
 
 <div markdown="block" class="alert alert-info">
