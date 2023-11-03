@@ -30,7 +30,7 @@ title: User Guide
      * 4.3.2 [Sort stalls by ratings :`sort-stalls-ratings`](#4.3.2-sort-stalls-by-rating)
      * 4.3.3 [Sort stalls by price :`sort-stalls-price`](#4.3.3-sort-stalls-by-price)
    - 4.4 [Stall Finding](#44-stall-finding)
-     * 4.4.1 [Find stalls by name :`find-by-name`](#4.4.1-find-stalls-by-name)
+     * 4.4.1 [Find stalls by name :`find-by-stall`](#4.4.1-find-stalls-by-name)
      * 4.4.2 [Find stalls by location :`find-by-location`](#4.4.2-find-stalls-by-location)
      * 4.4.3 [Find stalls by menu items :`find-by-item`](#4.4.3-find-stalls-by-menu-items)
    - 4.5 [Item Management](#45-item-management)
