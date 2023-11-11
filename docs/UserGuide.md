@@ -26,7 +26,7 @@ FoodNotes is available for the Linux, Unix, Windows and Mac OS operating systems
 **If you are a first time user:**
 
 1. The [Quick start](#quick-start) section provides instructions for you on how to get started.
-2. Once you have set up FoodNotes, you can check out the [Layout Screen](#terminology-related-to-the-graphical-user-interface--gui-) section to get familiar
+2. Once you have set up FoodNotes, you can check out the [Layout Screen](#terminology-related-to-the-graphical-user-interface-gui) section to get familiar
 with the different components of FoodNotes. To learn the basics of using FoodNotes, head over to the [Features](#features) section.
 
 **If you are an experienced user:**
